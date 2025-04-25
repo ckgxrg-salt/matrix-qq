@@ -13,7 +13,7 @@ buildGoModule {
 
   tags = "goolm";
 
-  vendorHash = "sha256-U/4FapLcO+v+XGYGmazki5IX+TH4rfrH/4jeZngOyvU=";
+  vendorHash = "sha256-ygin1CNbCN8DWfu/5046HA0uDTCJoPlwzsDQ4p0AAKg=";
 
   meta = {
     homepage = "https://github.com/duo/matrix-qq";

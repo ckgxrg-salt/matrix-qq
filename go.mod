@@ -5,7 +5,7 @@ go 1.23.0
 toolchain go1.23.4
 
 require (
-	github.com/LagrangeDev/LagrangeGo v0.1.3-0.20250111034447-91650c0c29cd
+	github.com/LagrangeDev/LagrangeGo v0.1.4-0.20250425071607-d863dd7e9d64
 	github.com/antchfx/xmlquery v1.4.3
 	github.com/gabriel-vasile/mimetype v1.4.8
 	github.com/hashicorp/golang-lru/v2 v2.0.7
@@ -25,6 +25,7 @@ require (
 	github.com/coreos/go-systemd/v22 v22.5.0 // indirect
 	github.com/fumiama/gofastTEA v0.1.3 // indirect
 	github.com/fumiama/imgsz v0.0.4 // indirect
+	github.com/fumiama/orbyte v0.0.0-20250228175313-326f247ad703 // indirect
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8 // indirect
 	github.com/gorilla/mux v1.8.1 // indirect
 	github.com/gorilla/websocket v1.5.3 // indirect
